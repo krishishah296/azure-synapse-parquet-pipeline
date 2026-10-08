@@ -1,0 +1,1 @@
+# azure-synapse-parquet-pipeline
