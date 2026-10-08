@@ -1,3 +1,6 @@
+
+
+
 # azure-synapse-parquet-pipeline
 
 # Cloud Big Data Analytics & Parquet Lakehouse Pipeline
@@ -22,13 +25,9 @@ An end-to-end cloud data engineering pipeline built on **Azure Synapse Analytics
 * **Serverless Querying:** Executed external table queries over Parquet data using Synapse Serverless SQL pools.
 * **Automated Provisioning:** Used CLI scripts to set up storage containers, access keys, and RBAC permissions.
 
-## 📊 Visualizations & Output
+## Visualization & Output
 
-*(Tip: Drag and drop 1 or 2 screenshots here from your Azure portal or Synapse SQL query results)*
-
-* `screenshots/azure_resource_group.png` — ADLS Gen2 container setup.
-* `screenshots/synapse_sql_query.png` — Synapse Serverless SQL query output.
-
+<img width="1167" height="861" alt="image" src="https://github.com/user-attachments/assets/3d16f063-e668-4ca5-b455-7842cef0cbe5" />
 ## 🏃 How to Run / Reproduce
 
 1. **Azure CLI Setup:**
